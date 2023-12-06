@@ -11,7 +11,8 @@ This project is a classic implementation of the Rock, Paper, Scissors game using
 - Understand the difference between == and === in JavaScript.
 
 # Demo
-![Working of the project] (https://github.com/Shiroo77/JavaScript-Rock-Paper-Scissors-Game/blob/main/Rock-Paper-Scissorss/Game%20Demo/Screenshot%20(219).png)
+![Screenshot (219)](https://github.com/Shiroo77/JavaScript-Rock-Paper-Scissors-Game/assets/141759574/4c849e85-8d43-425d-a9c9-17eaff526748)
+![Screenshot (221)](https://github.com/Shiroo77/JavaScript-Rock-Paper-Scissors-Game/assets/141759574/3c96887c-1a76-4761-998e-9f8a8e65386f)
 # Getting Started
 
 > [!NOTE]
